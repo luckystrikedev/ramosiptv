@@ -5,8 +5,7 @@
 #EXTINF:-1 tvg-id="Canal1" tvg-name="Mi Canal" tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="Noticias",TVC 
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%225db84696-abaf-4a61-98d9-be540eb65ea6%22
 
-#EXTINF:-1 tvg-id="Canal1" tvg-name="Mi Canal" tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="Noticias",TVC 
-https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%225db84696-abaf-4a61-98d9-be540eb65ea6%22
-
+#EXTINF:-1 tvg-id="Canal1" tvg-name="Mi Canal" tvg-logo="https://www.ecuadortv.ec/wp-content/uploads/2023/05/cropped-EcuadorTvWeb.png" group-title="Noticias",Ecuador TV 
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 
