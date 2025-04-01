@@ -13,3 +13,6 @@ https://live-c.cf.dmcdn.net/sec2(WuFLhkHrqOUiKztFLrGybC1QINQmwHOxLqqooPRs5n7J2DM
 
 #EXTINF:-1 tvg-id="5" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador",TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=600000.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="ECUAVISA" tvg-logo="https://www.ecuavisa.com/binrepository/logo_754866_20221223220958.png" group-title="Ecuador",ECUAVISA
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=4ef5bd81eb9c53c4f7c03b968b9e0903&sid=ba5t1l1xb2179509611667ec22671de6a&ndvc=0
