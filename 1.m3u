@@ -11,8 +11,14 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="TC TELEVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png" group-title="Ecuador",TC TELEVISION
 https://live-c.cf.dmcdn.net/sec2(WuFLhkHrqOUiKztFLrGybC1QINQmwHOxLqqooPRs5n7J2DMz0UU6yktdleHJ5tVzYQuO0GbwW91Hs7W6odCcrP6h3sM3rhe2N0COc_p-siA8OEQ1t2anF-M441jSR9xW)/dm/3/x7wijay/d/live-480.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador",TELEAMAZONAS
+#EXTINF:-1 tvg-id="5" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=600000.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="ECUAVISA" tvg-logo="https://www.ecuavisa.com/binrepository/logo_754866_20221223220958.png" group-title="Ecuador",ECUAVISA
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=4ef5bd81eb9c53c4f7c03b968b9e0903&sid=ba5t1l1xb2179509611667ec22671de6a&ndvc=0
+
+#EXTINF:-1 tvg-id="7" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador",RTS
+https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="OROMAR TV" tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV400.png" group-title="Ecuador",OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
