@@ -2,11 +2,11 @@
 
 # ECUADOR
 
-#EXTINF:-1 tvg-id="2" tvg-name="TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" group-title="Noticias",TVC 
+#EXTINF:-1 tvg-id="1" tvg-name="TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" group-title="Noticias",TVC 
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%225db84696-abaf-4a61-98d9-be540eb65ea6%22
 
-#EXTINF:-1 tvg-id="3" tvg-name="Ecuador TV" tvg-logo="https://www.ecuadortv.ec/wp-content/uploads/2023/05/cropped-EcuadorTvWeb.png" group-title="Noticias",Ecuador TV 
+#EXTINF:-1 tvg-id="2" tvg-name="Ecuador TV" tvg-logo="https://www.ecuadortv.ec/wp-content/uploads/2023/05/cropped-EcuadorTvWeb.png" group-title="Noticias",Ecuador TV 
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="TC TELEVISION" tvg-logo="https://blixtv.com/wp-content/uploads/2023/07/tc-television-150x150.webp" group-title="Noticias",TC TELEVISION
+#EXTINF:-1 tvg-id="3" tvg-name="TC TELEVISION" tvg-logo="https://blixtv.com/wp-content/uploads/2023/07/tc-television-150x150.webp" group-title="Noticias",TC TELEVISION
 https://live-c.cf.dmcdn.net/sec2(WuFLhkHrqOUiKztFLrGybC1QINQmwHOxLqqooPRs5n7J2DMz0UU6yktdleHJ5tVzYQuO0GbwW91Hs7W6odCcrP6h3sM3rhe2N0COc_p-siA8OEQ1t2anF-M441jSR9xW)/dm/3/x7wijay/d/live-480.m3u8
