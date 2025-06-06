@@ -3,7 +3,7 @@
 # ECUADOR
 
 #EXTINF:-1 tvg-id="2" tvg-name="TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" group-title="Ecuador",TVC 
-https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%225db84696-abaf-4a61-98d9-be540eb65ea6%22
+https://live.airstream.run/alba-ec-tvc-tvc/live_2.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Ecuador",ECUADOR TV 
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
